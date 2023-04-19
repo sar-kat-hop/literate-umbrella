@@ -1,5 +1,6 @@
-import 'tailwindcss/tailwind.css';
 import '../node_modules/daisyui/dist/base';
+import 'tailwindcss/tailwind.css';
+// import '../node_modules/daisyui/src/lib/postcss-prefixer';
 // import 'daisyui/dist/daisyui.css';
 import "./styles/index.css";
 
